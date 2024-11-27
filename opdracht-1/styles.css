@@ -1,8 +1,22 @@
+* {
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: inherit;
+    font-style: inherit;
+    font-sieze: inherit;
+    border: 0 none;
+    box-sizing: border-box;
+}
+
 .recipe-card {
     /* "auto" aan de zijkanten zorgt ervoor dat het element in het midden komt te staan*/
     margin: 80px auto;
     /* Dit element heeft een vaste breedte van 350 pixels */
     width: 350px;
 }
+
+
 
 /* - Vul dit document aan met jouw eigen css! - */
